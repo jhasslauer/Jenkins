@@ -22,6 +22,7 @@ namespace ForgeLauncher
         public static string emailLogin = "forgelauncher";
         public static string emailPassword = "Forgeandco";
         public static string ipUser = null;
+        public string coucou = " moi";
 
         public WebService ws = null;
 
