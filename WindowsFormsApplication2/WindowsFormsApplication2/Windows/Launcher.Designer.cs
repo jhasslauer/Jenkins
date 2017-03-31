@@ -37,7 +37,6 @@
             this.kBtnRegister = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.kBtnReport = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.forgotAccount = new System.Windows.Forms.LinkLabel();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // textBoxLogin
@@ -153,16 +152,6 @@
             this.forgotAccount.VisitedLinkColor = System.Drawing.Color.Cornsilk;
             this.forgotAccount.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.forgotAccount_LinkClicked);
             // 
-            // linkLabel1
-            // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(86, 45);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(55, 13);
-            this.linkLabel1.TabIndex = 16;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "linkLabel1";
-            // 
             // Launcher
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -170,7 +159,6 @@
             this.BackgroundImage = global::ForgeLauncher.Properties.Resources.Forge;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(302, 354);
-            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.forgotAccount);
             this.Controls.Add(this.kBtnReport);
             this.Controls.Add(this.kBtnRegister);
@@ -199,7 +187,6 @@
         private ComponentFactory.Krypton.Toolkit.KryptonButton kBtnRegister;
         private ComponentFactory.Krypton.Toolkit.KryptonButton kBtnReport;
         private System.Windows.Forms.LinkLabel forgotAccount;
-        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }
 

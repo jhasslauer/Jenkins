@@ -69,3 +69,6 @@ C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApp
 C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.csproj.GenerateResource.Cache
 C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.exe
 C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\GitHub\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.exe.config
+C:\Users\Johan\Desktop\Epsi\Intégration continue\GitHub\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.exe
+C:\Users\Johan\Desktop\Epsi\Intégration continue\GitHub\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.pdb
