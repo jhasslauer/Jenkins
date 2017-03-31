@@ -1,0 +1,71 @@
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.exe.config
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.exe
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Design.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Docking.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Ribbon.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Toolkit.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Workspace.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.AccountRecovery.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.ControlPanel.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Launcher.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.PlayerList.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.PopupConfigServer.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.ProgressDialog.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Properties.Resources.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Register.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Report.resources
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.csproj.GenerateResource.Cache
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.exe
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.pdb
+C:\Users\Johan\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.exe.config
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.exe
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ForgeLauncher.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.dll
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Design.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Design.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Docking.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Ribbon.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Toolkit.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ComponentFactory.Krypton.Workspace.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.AccountRecovery.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.ControlPanel.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Launcher.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.PlayerList.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.PopupConfigServer.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.ProgressDialog.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Properties.Resources.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Register.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.Report.resources
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.csproj.GenerateResource.Cache
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.exe
+C:\Users\Johan\Desktop\Epsi\Intégration continue\Projet de test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ForgeLauncher.pdb
